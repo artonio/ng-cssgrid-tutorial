@@ -1,0 +1,8 @@
+.mainGrid {
+  grid-gap: 1rem;
+}
+
+.mainGrid div {
+  background-color: lightsalmon;
+  border: 2px solid black;
+}
